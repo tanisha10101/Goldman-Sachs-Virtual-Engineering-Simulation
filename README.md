@@ -29,4 +29,6 @@ This repository contains the tasks and findings for the Goldman Sachs Virtual En
 
 ### Certificate of Completion
 
+![image alt](https://github.com/tanisha10101/Goldman-Sachs-Virtual-Engineering-Simulation/blob/2d8e2b0c72c82554449b2350b7b16254cf312302/Goldman%20Sachs%20Certificate.png)
+
 

@@ -1,13 +1,32 @@
 # Goldman-Sachs-Virtual-Engineering-Simulation
 
-#Overview 
-Your job is to crack as many passwords as possible with available tools (e.g. use Hashcat). Here are your Task instructions:
-1. Review the links provided in the additional resources (section 4) below to gain a background understanding of password cracking
+## Overview
 
-2. Try to crack the passwords provided in the 'password dump' file below using available tools
+This repository contains the tasks and findings for the Goldman Sachs Virtual Engineering Simulation. The primary objective is to analyze and crack passwords using available tools, understand password protection mechanisms, and propose policy improvements for enhanced security.
 
-3. Assess the 5 questions in the task instructions below in relation to the passwords provided (type of hashing algorithm, level of protection, possible controls that could be implemented, password policy, changes in policy)
+### Task Instructions
 
-4. Draft an email/memo briefly explaining your findings in relation to controls used by the organization and your proposed uplifts. We recommend spending about 1.5 hours on this task and keeping it at 1 page in length.
+1. **Gain Background Knowledge**  
+   - Review the links provided in the additional resources section (below) to understand password cracking methods and best practices.
+   
+2. **Crack Passwords**  
+   - Utilize tools such as Hashcat to attempt cracking the passwords provided in the `password_dump` file.
 
-#Certifcate of completion
+3. **Assess Password Security**  
+   - Analyze the following aspects of the passwords:
+     - Type of hashing algorithm used
+     - Level of protection offered by the hashing algorithm
+     - Possible security controls to strengthen the system
+     - Current password policies
+     - Suggested changes to improve the password policy
+
+4. **Draft Findings**  
+   - Prepare a one-page email/memo summarizing:
+     - The vulnerabilities identified
+     - Proposed security enhancements
+     - Controls the organization should implement for better password protection  
+   - Keep this memo concise, aiming to complete it within 1.5 hours.
+
+### Certificate of Completion
+
+

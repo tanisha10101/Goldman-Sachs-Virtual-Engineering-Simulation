@@ -7,7 +7,7 @@ This repository contains the tasks and findings for the Goldman Sachs Virtual En
 ### Task Instructions
 
 1. **Gain Background Knowledge**  
-   - Review the links provided in the additional resources section (below) to understand password cracking methods and best practices.
+   - Review the links provided in the additional resources section (below) to understand password cracking methods and best practices to enhance the efficiency.
    
 2. **Crack Passwords**  
    - Utilize tools such as Hashcat to attempt cracking the passwords provided in the `password_dump` file.
